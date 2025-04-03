@@ -19,9 +19,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
-    </a>
     <br />
     <br />
     <a href="https://vercel.com?utm\_source=github\_readme\_stats\_team\&utm\_campaign=oss">
@@ -40,48 +37,7 @@
     ·
     <a href="https://github.com/anuraghazra/github-readme-stats/discussions/new?category=q-a">Ask Question</a>
   </p>
-  <p align="center">
-    <a href="/docs/readme_fr.md">Français </a>
-    ·
-    <a href="/docs/readme_cn.md">简体中文</a>
-    ·
-    <a href="/docs/readme_es.md">Español</a>
-    ·
-    <a href="/docs/readme_de.md">Deutsch</a>
-    ·
-    <a href="/docs/readme_ja.md">日本語</a>
-    ·
-    <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
-    ·
-    <a href="/docs/readme_it.md">Italiano</a>
-    ·
-    <a href="/docs/readme_kr.md">한국어</a>
-    ·
-    <a href="/docs/readme_nl.md">Nederlands</a>
-    ·
-    <a href="/docs/readme_np.md">नेपाली</a>
-    ·
-    <a href="/docs/readme_tr.md">Türkçe</a>
-  </p>
-</p>
 
-<p align="center">Please note that documentation translations may be outdated; try to use English documentation if possible.</p>
-
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!</p>
-
-<a href="https://indiafightscorona.giveindia.org">
-  <img src="https://cfstatic.give.do/logo.png" alt="Give india logo" width="200" />
-</a>
-
-Are you considering supporting the project by donating to me? Please DO NOT!!!
-
-<img src="https://cfstatic.give.do/910ede2a-7892-43fe-8c8a-dea45e96d950.webp" alt="Picture of Coromandel Express train tragedy" width="35%">
-
-India has recently suffered one of the most devastating train accidents, and your help will be immensely valuable for the people who were affected by this tragedy.
-
-Please visit [this link](https://give.do/fundraisers/stand-beside-the-victims-of-the-coromandel-express-train-tragedy-in-odisha-donate-now) and make a small donation to help the people in need. A small donation goes a long way. :heart:
-
-</p>
 
 # Features <!-- omit in toc -->
 
@@ -822,19 +778,6 @@ See [the Vercel documentation](https://vercel.com/docs/concepts/projects/environ
 ## Keep your fork up to date
 
 You can keep your fork, and thus your private Vercel instance up to date with the upstream using GitHub's [Sync Fork button](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork). You can also use the [pull](https://github.com/wei/pull) package created by [@wei](https://github.com/wei) to automate this process.
-
-# :sparkling\_heart: Support the project
-
-I open-source almost everything I can and try to reply to everyone needing help using these projects. Obviously,
-this takes time. You can use this service for free.
-
-However, if you are using this project and are happy with it or just want to encourage me to continue creating stuff, there are a few ways you can do it:
-
-*   Giving proper credit when you use github-readme-stats on your readme, linking back to it. :D
-*   Starring and sharing the project. :rocket:
-*   [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make a one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
-
-Thanks! :heart:
 
 ***
 
