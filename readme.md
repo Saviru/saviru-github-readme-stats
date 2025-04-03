@@ -2,6 +2,12 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+<hr>
+<br>
+<img src="https://github.com/Saviru/saviru-github-readme-stats/blob/main/tests/prototype.svg" />
+<br>
+<hr>
+ 
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
